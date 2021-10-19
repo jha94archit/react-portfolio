@@ -3,6 +3,7 @@ import './contactcard.css'
 import SocailIcons from '../Socials/SocailIcons';
 import RoomIcon from '@material-ui/icons/Room';
 import PhoneIcon from '@material-ui/icons/Phone';
+import EmailIcon from '@material-ui/icons/Email';
 
 function ContactCard() {
     return (
@@ -21,6 +22,14 @@ function ContactCard() {
                 </div>
                 <div className="contact-data">
                     <h5>+91-8310133967</h5>
+                </div>
+            </div>
+            <div className="contact-info">
+                <div className="contact-icon">
+                    <EmailIcon />
+                </div>
+                <div className="contact-data">
+                    <h5>jha94archit@gmail.com</h5>
                 </div>
             </div>
             <SocailIcons />

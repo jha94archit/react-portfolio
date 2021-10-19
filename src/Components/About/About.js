@@ -6,9 +6,9 @@ import { abt_me } from '../../Data/about_me'
 function About() {
     return (
         <div className="container" id="about">
-            <Section sectionHeader="About Me"
-            sectionContent={abt_me.desc}/>
-        </div>
+                <Section sectionHeader="About Me"
+                sectionContent={abt_me.desc}/>
+            </div>
     )
 }
 
