@@ -1,0 +1,26 @@
+.skill-card {
+  padding: 20px;
+  color: #f4f9f9;
+  margin: 10px;
+}
+
+.skill-header {
+  margin-bottom: 10px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  /* border-bottom: 2px solid; */
+}
+
+.skill-content h5 {
+  font-size: 18px;
+  font-weight: 300;
+  margin-top: 4px;
+  margin-bottom: 8px;
+}
+
+.section-end {
+  font-size: 24px;
+  color: #7ed57b;
+}

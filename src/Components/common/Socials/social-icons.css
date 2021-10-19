@@ -1,0 +1,14 @@
+.social-icons {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.icon a {
+  color: #7ed57b;
+}
+
+.icon {
+  margin-right: 12px;
+}

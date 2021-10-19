@@ -1,0 +1,13 @@
+.skill-cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  border: 1px solid;
+  border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+  .skill-cards {
+    flex-direction: column;
+  }
+}

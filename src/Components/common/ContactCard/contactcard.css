@@ -1,0 +1,14 @@
+.contact-info {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.contact-icon {
+  color: #7ed57b;
+}
+
+.contact-data {
+  margin-left: 6px;
+  font-size: 18px;
+}

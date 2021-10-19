@@ -1,0 +1,51 @@
+.project-card {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  width: 30%;
+}
+
+.project-card a {
+  margin-right: 8px;
+  color: #7ed57b;
+}
+
+.project-title {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.project-desc {
+  margin-bottom: 10px;
+  padding-right: 40px;
+  text-align: justify;
+}
+
+.tag {
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #f9f871;
+}
+
+.project-buttons {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.project-link-icon {
+  margin-right: 8px;
+  color: #7ed57b;
+}
+
+.button-label {
+  color: #7ed57b;
+}
+
+@media (max-width: 768px) {
+  .project-card {
+    width: 100%;
+  }
+}
