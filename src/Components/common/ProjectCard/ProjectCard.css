@@ -1,6 +1,7 @@
 .project-card {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   margin-top: 10px;
   width: 30%;
 }
@@ -18,7 +19,7 @@
 .project-desc {
   margin-bottom: 10px;
   padding-right: 40px;
-  text-align: justify;
+  text-align: left;
 }
 
 .tag {
@@ -47,5 +48,7 @@
 @media (max-width: 768px) {
   .project-card {
     width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
   }
 }

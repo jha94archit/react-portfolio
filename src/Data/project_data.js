@@ -1,27 +1,27 @@
 export const project_data = [
     {
-        title: 'Loan Repayment Classification',
-        desc: 'Data science and machine learning project to classify if a person will make the loan repayment on not based on historical data.',
-        tag: 'Data Science & ML',
-        link: 'https://github.com/jha94archit/CancerClassificationANN'
-    },
-    {
-        title: 'Cancer Classification',
-        desc: 'Data science and machine learning project to classify if a person will make the loan repayment on not based on historical data.',
-        tag: 'Data Science & ML',
-        link: 'https://github.com/jha94archit/CancerClassificationANN'
-    },
-    {
-        title: 'Twitter Sentiment Analysis',
-        desc: 'Data science and machine learning project to classify if a person will make the loan repayment on not based on historical data.',
+        title: 'Cancer Classification ANN',
+        desc: 'Data science and machine learning project to classify if a person has cancer or not using artificial neural network',
         tag: 'Data Science & ML',
         link: 'https://github.com/jha94archit/CancerClassificationANN'
     },
     {
         title: 'Netflix Clone',
-        desc: 'Data science and machine learning project to classify if a person will make the loan repayment on not based on historical data.',
+        desc: 'Netflix clone developed using react.js, html, css and TMDB API for getting real-time movies information',
         tag: 'Web Development',
         link: 'https://github.com/jha94archit/CancerClassificationANN'
+    },
+    {
+        title: 'Facebook Clone',
+        desc: 'Facebook UI clone developed using react.js, next.js, html, css and firbase to mock posts functionality',
+        tag: 'Web Development',
+        link: 'https://github.com/jha94archit/facebook-clone'
+    },
+    {
+        title: 'Linkedin Clone',
+        desc: 'Linkedin UI clone developed using react.js, html, css and firbase to mock database',
+        tag: 'Web Development',
+        link: 'https://github.com/jha94archit/React-Linkedin-Clone'
     },
 
 
